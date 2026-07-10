@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Speaker placeholder">
+  <rect width="240" height="240" rx="120" fill="#f7f7f2"/>
+  <circle cx="120" cy="92" r="42" fill="#d8dce2"/>
+  <path d="M48 205c12-46 42-72 72-72s60 26 72 72" fill="#d8dce2"/>
+  <circle cx="188" cy="56" r="20" fill="#f5bd28" opacity=".85"/>
+</svg>

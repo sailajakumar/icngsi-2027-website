@@ -1,0 +1,8 @@
+{
+  "name": "ICNGSI 2027",
+  "short_name": "ICNGSI 2027",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#252a32"
+}
